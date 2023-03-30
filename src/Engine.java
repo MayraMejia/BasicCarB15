@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Engine {
+public class Engine {
+    String cylinders;
+    String size;
+    String weight;
 }
+
